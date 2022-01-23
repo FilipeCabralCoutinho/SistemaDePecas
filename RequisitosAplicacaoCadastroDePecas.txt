@@ -1,0 +1,14 @@
+REQUISITOS DA APLICAÇÃO DE CADASTRO DE PEÇAS
+3 Requisitos
+
+OK - Verificar se o peso da peça é maior que 100g
+	OK - Sim: Pode Cadastrar
+	OK - Não: Não pode Cadastrar
+
+OK - Verificar se o número de peças é menor que 10
+	OK - Sim: Pode Cadastrar
+	OK - Não: Não podemos cadastrar
+
+OK - Verificar o comprimento do nome da peça
+	OK - Menos de 3 caracteres: Não podemos Cadastrar
+	OK 3 ou mais caracteres: Podemos Cadastrar
